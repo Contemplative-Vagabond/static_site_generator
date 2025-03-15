@@ -1,0 +1,5 @@
+__pycache__/
+test_htmlnode.py
+test_textnode.py
+main.sh
+test.sh
