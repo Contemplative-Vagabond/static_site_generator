@@ -1,5 +1,6 @@
 __pycache__/
 test_htmlnode.py
 test_textnode.py
+test_leafnode.py
 main.sh
 test.sh
